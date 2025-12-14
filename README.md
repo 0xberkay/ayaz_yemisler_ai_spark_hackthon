@@ -17,6 +17,14 @@
       <img src="https://github.com/user-attachments/assets/c80e1b3f-5ba6-4d52-90f8-9ad15acc5048" alt="Ekran Görüntüsü 4" width="100%">
     </td>
   </tr>
+    <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/39cb1be4-535e-42b3-a439-83a75d71a6ab" alt="Ekran Görüntüsü 5" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/2e832ecb-ddf8-436f-9408-9ac344949c58" alt="Ekran Görüntüsü 6" width="100%">
+    </td>
+  </tr>
 </table>
 
 Model ve dosyalar çok büyük olduğu için GitHub'a yükleyemedik, Drive linkini iletiyorum:
@@ -34,3 +42,7 @@ Ayrıca bir demo videosu çektim:
 [Google Drive - Demo Videosu](https://drive.google.com/file/d/1x3sQlaMhfoDqyKhpiJXjdTn8whLfutZc/view?usp=sharing)
 
 Bu değerli etkinlik için organizatörlere tekrardan teşekkür ederiz.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCwsTGR2w/giphy.gif" alt="Teşekkürler GIF" width="200">
+</p>
