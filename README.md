@@ -27,6 +27,31 @@
   </tr>
 </table>
 
+### Model Performans Sonuçları
+
+```text
+==================================================
+🚀 MODEL RESULTS (VERY STRICT FILTERING <5M)
+RMSE: 167,378
+R2 Score: 0.89770
+==================================================
+
+Error Distribution:
+Mean Absolute Error: 85,248 TL
+Median Absolute Error: 42,637 TL
+Mean Percentage Error: 14.27%
+
+Top 5 Worst Predictions:
+       Actual     Predicted         Error     Abs_Error  Pct_Error
+3549   4850000.0  2.923444e+06  1.926556e+06  1.926556e+06  39.722811
+12895  3900000.0  2.029185e+06  1.870815e+06  1.870815e+06  47.969626
+21273  4500000.0  2.734007e+06  1.765993e+06  1.765993e+06  39.244282
+27272  3980000.0  2.431350e+06  1.548650e+06  1.548650e+06  38.910812
+14116  3900000.0  2.395819e+06  1.504181e+06  1.504181e+06  38.568748
+```
+
+---
+
 Model ve dosyalar çok büyük olduğu için GitHub'a yükleyemedik, Drive linkini iletiyorum:
 
 [Google Drive - Proje Dosyaları](https://drive.google.com/file/d/1YTz2rLcUWV34WvWBE5bXKBUFE8MTiYoF/view?usp=sharing)
