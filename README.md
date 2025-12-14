@@ -44,5 +44,5 @@ Ayrıca bir demo videosu çektim:
 Bu değerli etkinlik için organizatörlere tekrardan teşekkür ederiz.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCwsTGR2w/giphy.gif" alt="Teşekkürler GIF" width="200">
+  <img src="https://i.pinimg.com/originals/8f/68/cc/8f68ccb9df25696c03b5eff9f61e5efb.gif" alt="The End GIF" width="300">
 </p>
